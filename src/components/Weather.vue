@@ -111,7 +111,7 @@ export default {
       this.gettingData = true;
       axios
         .get(
-          "https://cors-anywhere.herokuapp.com/http://api.openweathermap.org/data/2.5/weather?lat=" +
+          "http://api.openweathermap.org/data/2.5/weather?lat=" +
             this.latitude +
             "&lon=" +
             this.longitude +
