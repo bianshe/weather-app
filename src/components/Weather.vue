@@ -115,7 +115,7 @@ export default {
             this.latitude +
             "&lon=" +
             this.longitude +
-            "&appid=13098658eeecc73038d25caecacc7eba&units=metric"
+            "&appid=8dd3e5e2fee01d077f33acc9e1098a88&units=metric"
         )
         .then(
           (response) => (
