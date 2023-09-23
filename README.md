@@ -1,5 +1,7 @@
 # weather-app
 
+See preview at [Codepen]C(https://codepen.io/bianshe/full/ZEOBZKv)
+
 ## Project setup
 ```
 npm install
