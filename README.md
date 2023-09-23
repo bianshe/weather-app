@@ -1,6 +1,6 @@
 # weather-app
 
-See preview at [Codepen]C(https://codepen.io/bianshe/full/ZEOBZKv)
+See preview at [Codepen](https://codepen.io/bianshe/full/ZEOBZKv)
 
 ## Project setup
 ```
